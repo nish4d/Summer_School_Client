@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.MBtn {
+  @apply px-6 py-3 font-semibold bg-red-500 text-white rounded-md;
+}
+
+.tHead{
+  @apply bg-red-400 rounded-md text-white
+}
+
+.tDiv{
+  @apply border border-red-400 rounded-md py-4 px-2
+}

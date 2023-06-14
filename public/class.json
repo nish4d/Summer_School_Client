@@ -1,0 +1,75 @@
+
+[
+  {
+    "image": "https://example.com/image1.jpg",
+    "className": "Judo Class",
+    "instructorName": "Sensei Hiroshi",
+    "availableSeats": 20,
+    "price": 80,
+    "instructorEmail": "hiroshi@gmail.com"
+  },
+  {
+    "image": "https://example.com/image2.jpg",
+    "className": "Karate Class",
+    "instructorName": "Sensei Akiko",
+    "availableSeats": 15,
+    "price": 100,
+    "instructorEmail": "akiko@gmail.com"
+  },
+  {
+    "image": "https://example.com/image3.jpg",
+    "className": "Brazilian Jiu-Jitsu Class",
+    "instructorName": "Sensei Takeshi",
+    "availableSeats": 10,
+    "price": 120,
+    "instructorEmail": "takeshi@gmail.com"
+  },
+  {
+    "image": "https://example.com/image4.jpg",
+    "className": "Muay Thai Class",
+    "instructorName": "Sensei Emi",
+    "availableSeats": 12,
+    "price": 150,
+    "instructorEmail": "emi@gmail.com"
+  },
+  {
+    "image": "https://example.com/image5.jpg",
+    "className": "Taekwondo Class",
+    "instructorName": "Sensei Kaito",
+    "availableSeats": 18,
+    "price": 90,
+    "instructorEmail": "kaito@gmail.com"
+  },
+  {
+    "image": "https://example.com/image6.jpg",
+    "className": "Wing Chun Class",
+    "instructorName": "Sensei Yumi",
+    "availableSeats": 15,
+    "price": 110,
+    "instructorEmail": "yumi@gmail.com"
+  },
+  {
+    "image": "https://example.com/image7.jpg",
+    "className": "Krav Maga Class",
+    "instructorName": "Sensei Ryu",
+    "availableSeats": 10,
+    "price": 130,
+    "instructorEmail": "ryu@gmail.com"
+  },
+  {
+    "image": "https://example.com/image8.jpg",
+    "className": "Aikido Class",
+    "instructorName": "Sensei Mei",
+    "availableSeats": 12,
+    "price": 100,
+    "instructorEmail": "mei@gmail.com"
+  },
+  {
+    "image": "https://example.com/image9.jpg",
+    "className": "Capoeira Class",
+    "instructorName": "Sensei Kazuki",
+    "availableSeats": 8,
+    "price": 200,
+    "instructorEmail": "kazuki@gmail.com"
+  }
+]
